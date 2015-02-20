@@ -1,9 +1,9 @@
 
 ## run_Analysis.R
 
-*Contains :  r function -  run_Analysis().  No parameters required.
+* Contains :  r function -  run_Analysis().  No parameters required.
 
-*Requires the following files in the same directory as run_Analysis.
+* Requires the following files in the same directory as run_Analysis.
 
 		run_Analysis.R
 		features.txt
@@ -15,7 +15,7 @@
 		y_train.txt
 		subject_train.txt
 
-*Output:  a file ActivityTracking.txt created by the following:
+* Output:  a file ActivityTracking.txt created by the following:
 
  	  write.table (temp,  file = "ActivityTracking.txt", 
                  sep = "\t",col.names=TRUE, row.names=FALSE)  
@@ -25,5 +25,7 @@
 		df <- read.table("ActivityTracking.txt",header=TRUE)
                 View(df)
 		
-	  The output file contains 180 rows and 50 columns.  
-	  See CodeBook.md for a description
+* Note	  The output file contains 180 rows and 50 columns.  Only the
+	  columns labeled mean or std and ending in X, Y or Z were
+	  extracted from the original data set.
+	 
