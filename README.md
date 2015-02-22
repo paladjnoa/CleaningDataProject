@@ -28,4 +28,7 @@
 * Note	  The output file contains 180 rows and 50 columns.  Only the
 	  columns labeled mean or std and ending in X, Y or Z were
 	  extracted from the original data set.
+
+* Description  See CodeBook Study Design for a description of what
+	       the R script accomplishes.
 	 
