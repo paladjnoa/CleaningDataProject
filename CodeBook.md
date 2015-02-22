@@ -52,10 +52,10 @@ The wide representation was chosen as it is more familiar to users of Excel.
 ### ######
 
 
-   *Subject                 : int  1:30 volunteers ages 19-48 wearing a waist mounted 
+   * Subject                 : int  1:30 volunteers ages 19-48 wearing a waist mounted 
 				  smartphone (Samsung Galaxy S II)
 
-   *Activity                : Factor w/ 6 levels 
+   * Activity                : Factor w/ 6 levels 
 				  "WALKING","WALKING_UPSTAIRS","WALKING_DOWNSTAIRS"
 				  "SITTING","STANDING","LAYING"
 
@@ -65,54 +65,54 @@ The wide representation was chosen as it is more familiar to users of Excel.
 			   prefixed to the name as well as the index in the original
                            dataset of the extracted data. 
 				
-   *Avg1tBodyAccmeanX       : numeric 
-   *Avg2tBodyAccmeanY       : numeric  
-   *Avg3tBodyAccmeanZ       : numeric  
-   *Avg4tBodyAccstdX        : numeric  
-   *Avg5tBodyAccstdY        : numeric  
-   *Avg6tBodyAccstdZ        : numeric  
-   *Avg41tGravityAccmeanX   : numeric 
-   *Avg42tGravityAccmeanY   : numeric 
-   *Avg43tGravityAccmeanZ   : numeric  
-   *Avg44tGravityAccstdX    : numeric 
-   *Avg45tGravityAccstdY    : numeric 
-   *Avg46tGravityAccstdZ    : numeric  
-   *Avg81tBodyAccJerkmeanX  : numeric 
-   *Avg82tBodyAccJerkmeanY  : numeric 
-   *Avg83tBodyAccJerkmeanZ  : numeric 
-   *Avg84tBodyAccJerkstdX   : numeric 
-   *Avg85tBodyAccJerkstdY   : numeric 
-   *Avg86tBodyAccJerkstdZ   : numeric 
-   *Avg121tBodyGyromeanX    : numeric  
-   *Avg122tBodyGyromeanY    : numeric  
-   *Avg123tBodyGyromeanZ    : numeric  
-   *Avg124tBodyGyrostdX     : numeric  
-   *Avg125tBodyGyrostdY     : numeric  
-   *Avg126tBodyGyrostdZ     : numeric 
-   *Avg161tBodyGyroJerkmeanX: numeric  
-   *Avg162tBodyGyroJerkmeanY: numeric  
-   *Avg163tBodyGyroJerkmeanZ: numeric 
-   *Avg164tBodyGyroJerkstdX : numeric 
-   *Avg165tBodyGyroJerkstdY : numeric
-   *Avg166tBodyGyroJerkstdZ : numeric  
-   *Avg266fBodyAccmeanX     : numeric  
-   *Avg267fBodyAccmeanY     : numeric  
-   *Avg268fBodyAccmeanZ     : numeric  
-   *Avg269fBodyAccstdX      : numeric  
-   *Avg270fBodyAccstdY      : numeric  
-   *Avg271fBodyAccstdZ      : numeric  
-   *Avg345fBodyAccJerkmeanX : numeric  
-   *Avg346fBodyAccJerkmeanY : numeric  
-   *Avg347fBodyAccJerkmeanZ : numeric 
-   *Avg348fBodyAccJerkstdX  : numeric  
-   *Avg349fBodyAccJerkstdY  : numeric  
-   *Avg350fBodyAccJerkstdZ  : numeric 
-   *Avg424fBodyGyromeanX    : numeric 
-   *Avg425fBodyGyromeanY    : numeric  
-   *Avg426fBodyGyromeanZ    : numeric  
-   *Avg427fBodyGyrostdX     : numeric  
-   *Avg428fBodyGyrostdY     : numeric 
-   *Avg429fBodyGyrostdZ     : numeric  
+   * Avg1tBodyAccmeanX       : numeric 
+   * Avg2tBodyAccmeanY       : numeric  
+   * Avg3tBodyAccmeanZ       : numeric  
+   * Avg4tBodyAccstdX        : numeric  
+   * Avg5tBodyAccstdY        : numeric  
+   * Avg6tBodyAccstdZ        : numeric  
+   * Avg41tGravityAccmeanX   : numeric 
+   * Avg42tGravityAccmeanY   : numeric 
+   * Avg43tGravityAccmeanZ   : numeric  
+   * Avg44tGravityAccstdX    : numeric 
+   * Avg45tGravityAccstdY    : numeric 
+   * Avg46tGravityAccstdZ    : numeric  
+   * Avg81tBodyAccJerkmeanX  : numeric 
+   * Avg82tBodyAccJerkmeanY  : numeric 
+   * Avg83tBodyAccJerkmeanZ  : numeric 
+   * Avg84tBodyAccJerkstdX   : numeric 
+   * Avg85tBodyAccJerkstdY   : numeric 
+   * Avg86tBodyAccJerkstdZ   : numeric 
+   * Avg121tBodyGyromeanX    : numeric  
+   * Avg122tBodyGyromeanY    : numeric  
+   * Avg123tBodyGyromeanZ    : numeric  
+   * Avg124tBodyGyrostdX     : numeric  
+   * Avg125tBodyGyrostdY     : numeric  
+   * Avg126tBodyGyrostdZ     : numeric 
+   * Avg161tBodyGyroJerkmeanX: numeric  
+   * Avg162tBodyGyroJerkmeanY: numeric  
+   * Avg163tBodyGyroJerkmeanZ: numeric 
+   * Avg164tBodyGyroJerkstdX : numeric 
+   * Avg165tBodyGyroJerkstdY : numeric
+   * Avg166tBodyGyroJerkstdZ : numeric  
+   * Avg266fBodyAccmeanX     : numeric  
+   * Avg267fBodyAccmeanY     : numeric  
+   * Avg268fBodyAccmeanZ     : numeric  
+   * Avg269fBodyAccstdX      : numeric  
+   * Avg270fBodyAccstdY      : numeric  
+   * Avg271fBodyAccstdZ      : numeric  
+   * Avg345fBodyAccJerkmeanX : numeric  
+   * Avg346fBodyAccJerkmeanY : numeric  
+   * Avg347fBodyAccJerkmeanZ : numeric 
+   * Avg348fBodyAccJerkstdX  : numeric  
+   * Avg349fBodyAccJerkstdY  : numeric  
+   * Avg350fBodyAccJerkstdZ  : numeric 
+   * Avg424fBodyGyromeanX    : numeric 
+   * Avg425fBodyGyromeanY    : numeric  
+   * Avg426fBodyGyromeanZ    : numeric  
+   * Avg427fBodyGyrostdX     : numeric  
+   * Avg428fBodyGyrostdY     : numeric 
+   * Avg429fBodyGyrostdZ     : numeric  
 
 
 
